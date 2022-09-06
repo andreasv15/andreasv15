@@ -12,6 +12,7 @@ Soy una persona comprometida y perseverante hasta dar con la solución del probl
 
 - Puedes conocerme más accediendo a mi [**portfolio**](https://portfolio-andreasanchez.netlify.app/).
 - Contacta conmigo [**aquí**](mailto:asv1994@hotmail.com). 
+- Mi perfil de [**LinkedIn**](https://www.linkedin.com/in/andrea-sanchez-velasco).
 
 <!--
 **andreasv15/andreasv15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
